@@ -1,0 +1,4 @@
+#Mon Apr 23 19:53:27 BST 2018
+base.0=/Users/alex/Desktop/play/word_counter_extensions/app/build/intermediates/transforms/dexMerger/debug/5
+path.0=classes.dex
+renamed.0=classes.dex
